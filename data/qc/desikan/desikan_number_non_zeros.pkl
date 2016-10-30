@@ -1,0 +1,14 @@
+(dp0
+S'number_non_zeros'
+p1
+ccollections
+OrderedDict
+p2
+((lp3
+(lp4
+S'KKI2009_113_1_DTI_s3_desikan.gpickle'
+p5
+aI756
+aatp6
+Rp7
+s.
